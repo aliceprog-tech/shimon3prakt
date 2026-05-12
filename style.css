@@ -1,0 +1,25 @@
+.container {
+    max-width: 800px;
+    margin: 0px auto;
+    background: white;
+    padding: 35px;
+}
+h1 {
+    font-size: 28px;
+    color: blue;
+    margin-top: 0;
+}
+p {
+    margin: 15px 0;
+    text-align: justify;
+}
+.more-link {
+    text-align: right;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
